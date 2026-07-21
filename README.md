@@ -1,0 +1,2 @@
+# Scarlet-For-AltStore
+Scarlet
