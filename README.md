@@ -42,6 +42,22 @@ https://raw.githubusercontent.com/Tomaseueu/Scarlet-For-AltStore/main/scarlet-fo
 
 ---
 
+## 🔗 More Options
+
+We support more sideloading options and apps:
+
+- 🪶 Feather
+- 📦 LiveContainer
+- 🔄 SideStore
+- 🦯 StikStore
+- 🧌 TrollApps
+
+Find more sideloading apps here:
+
+https://stikstore.app/altdirect/?url=https://raw.githubusercontent.com/Tomaseueu/Scarlet-For-AltStore/main/scarlet-for-altstore.json
+
+---
+
 ## 📦 Source File
 
 Main source:
