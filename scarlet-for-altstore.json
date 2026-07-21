@@ -2,12 +2,15 @@
   "name": "Scarlet for AltStore",
   "identifier": "pw.tomaseu",
   "subtitle": "Scarlet for AltStore",
+  "iconURL": "https://raw.githubusercontent.com/Tomaseueu/Scarlet-For-AltStore/refs/heads/main/images.jpeg",
   "apps": [
     {
       "name": "Scarlet",
       "bundleIdentifier": "com.DebianArch.ScarletPersonalXYZ",
       "developerName": "DebianArch64",
       "subtitle": "Scarlet",
+      "iconURL": "https://raw.githubusercontent.com/Tomaseueu/Scarlet-For-AltStore/refs/heads/main/images.jpeg",
+      "version": "1.0.0",
       "downloadURL": "https://github.com/Tomaseueu/Scarlet-For-AltStore/raw/refs/heads/main/Entitled.ipa"
     }
   ]
